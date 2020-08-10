@@ -3,7 +3,7 @@
     $visitor_email = $POST['email'];
     $message = $_POST['message'];
 
-    $email_from = 'tanvihanamshet412@gmail.com';
+    $email_from = 'thanamsh@stevens.edu';
     $email_subject = "Pro-Sight Information Required!";
     $email_body = "User Name: $name.\n".
                     "User Email: $visitor_email.\n".
